@@ -25,7 +25,7 @@ function iLoveTheBeatles(i){
   do {
             iLove[j]="I love the Beatles!"
             j++
-  }  while ( i++ < 15+1)
+  }  while ( i++ <=15)
   return iLove
 
 }
