@@ -25,7 +25,7 @@ function iLoveTheBeatles(k){
   do {
     iLove.push("I love the Beatles!")
     //        j++
-  }  while (k++<=17)
+  }  while (k++<=14)
 
   return iLove
 
