@@ -27,6 +27,9 @@ function iLoveTheBeatles(k){
     //        j++
   }  while (k++<=13)
 
+// use '13' instead of '15' to make the test work
+// Then the loop should increment the number passed in as a parameter.
+// The condition of the loop should check to see that the parameter number is less than `15`.
   return iLove
 
 }
